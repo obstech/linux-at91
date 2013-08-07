@@ -33,6 +33,8 @@
 #include <linux/platform_data/dma-atmel.h>
 #include <mach/atmel-mci.h>
 
+#include <mach/atmel-lcdc.h>
+
 #include <media/atmel-isi.h>
 
 #include "board.h"
